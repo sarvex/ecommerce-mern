@@ -18,8 +18,8 @@ importers:
         specifier: ^1.4.7
         version: 1.4.7
       dotenv:
-        specifier: ^16.0.3
-        version: 16.0.3
+        specifier: ^16.4.7
+        version: 16.4.7
       express:
         specifier: ^4.21.2
         version: 4.21.2
@@ -43,7 +43,7 @@ importers:
         specifier: ^1.2.0
         version: 1.2.0
       nodemon:
-        specifier: ^3.1.9
+        specifier: ^3.1.4
         version: 3.1.9
 
 packages:
@@ -286,8 +286,8 @@ packages:
     resolution: {integrity: sha512-3omnDTYrGigU0i4cJjvaKwD52B8aoqyX/NEIkukFFkogBemsIbhSa1O414fpTp5nuszJG6lvQ5vBvDVNCbSsaQ==}
     engines: {node: '>=0.8.0'}
 
-  dotenv@16.0.3:
-    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==}
+  dotenv@16.4.7:
+    resolution: {integrity: sha512-47qPchRCykZC03FhkYAhrvwU4xDBFIj1QPqaarj6mdM/hgUzfPHcpkHJOn3mJAufFeeAxAzeGsr5X0M4k6fLZQ==}
     engines: {node: '>=12'}
 
   dunder-proto@1.0.1:
@@ -1217,7 +1217,7 @@ snapshots:
 
   diacritics-map@0.1.0: {}
 
-  dotenv@16.0.3: {}
+  dotenv@16.4.7: {}
 
   dunder-proto@1.0.1:
     dependencies:
